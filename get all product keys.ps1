@@ -1,0 +1,1 @@
+Get-WmiObject -class softwarelicensingproduct
